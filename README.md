@@ -2,8 +2,8 @@
 
 Chapter13.ipbyn - Working through Ch. 13 Chollett 
 
-Timeseries.ipbyn - 
+Timeseries.ipynb - 
 
-WeatherPrediction.ipbyn - 
+WeatherPrediction.ipynb - 
 
-Autoencoder.ipbyn - 
+Autoencoder.ipynb - 
